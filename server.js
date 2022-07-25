@@ -12,7 +12,7 @@ const rappers = {
     birthLocation: "London, England",
   },
   "chance the rapper": {
-    age: 29,
+    age: 28,
     birthName: "Chancelor Bennet",
     birthLocation: "Chicago, Illinois",
   },
